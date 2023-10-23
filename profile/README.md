@@ -1,5 +1,5 @@
 ##  predictive thermodynamics: openCOSMO-RS
-![COSMO-RS](COSMO-RS.png?raw=true "COSMO-RS")
+![COSMO-RS](profile/COSMO-RS.png?raw=true "COSMO-RS")
 The paper describing openCOSMO-RS is available [here](https://www.sciencedirect.com/science/article/pii/S0378381222000954).
 
 We provide a python base version for rapid prototyping, a c++ version that is very fast and the conformer pipeline to generate the needed input for the calculations for any molecule.
