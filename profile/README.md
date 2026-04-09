@@ -1,6 +1,6 @@
 ##  predictive thermodynamics: openCOSMO-RS
 ![COSMO-RS](COSMO-RS.png?raw=true "COSMO-RS")
-Papers realted to openCOSMO-RS:
+Papers related to openCOSMO-RS:
 - original paper [here](https://www.sciencedirect.com/science/article/pii/S0378381222000954).
 - version 24a paper[here](https://www.sciencedirect.com/science/article/pii/S0378381224002255).
 - halocarbon paper [here](https://www.sciencedirect.com/science/article/pii/S0009250925002489).
