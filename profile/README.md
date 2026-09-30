@@ -9,4 +9,5 @@ Papers related to openCOSMO-RS:
 We provide a python base version for rapid prototyping, a c++ version that is very fast and the conformer pipeline to generate the needed input for the calculations for any molecule.
 - [openCOSMO-RS (python)](https://github.com/TUHH-TVT/openCOSMO-RS_py)
 - [openCOSMO-RS (C++) with python bindings](https://github.com/TUHH-TVT/openCOSMO-RS_cpp)
+- [openCOSMO-RS-Phi (C++)](https://github.com/TUHH-TVT/openCOSMO-RS-Phi_cpp) an open-source implementation of the [COSMO-SAC-Phi model](https://doi.org/10.1016/j.fluid.2019.01.015)
 - [Conformer pipeline](https://github.com/TUHH-TVT/openCOSMO-RS_conformer_pipeline)
