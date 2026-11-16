@@ -10,4 +10,5 @@ We provide a python base version for rapid prototyping, a c++ version that is ve
 - [openCOSMO-RS (python)](https://github.com/TUHH-TVT/openCOSMO-RS_py)
 - [openCOSMO-RS (C++) with python bindings](https://github.com/TUHH-TVT/openCOSMO-RS_cpp)
 - [openCOSMO-RS-Phi (C++)](https://github.com/TUHH-TVT/openCOSMO-RS-Phi_cpp) an open-source implementation of the [COSMO-SAC-Phi model](https://doi.org/10.1016/j.fluid.2019.01.015)
+- [openCOSMO-RS-ES-Phi (C++)](https://github.com/TUHH-TVT/openCOSMO-RS-Phi_cpp) an extension of openCOSMO-RS-Phi to electrolyte systems [[preprint](https://arxiv.org/abs/2611.01686v1)]
 - [Conformer pipeline](https://github.com/TUHH-TVT/openCOSMO-RS_conformer_pipeline)
